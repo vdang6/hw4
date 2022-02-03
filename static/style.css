@@ -1,0 +1,12 @@
+body {
+    background-color: #7986cb;
+    font-family: arial;
+  }
+
+ol li {
+    font-size: 36px;
+}
+
+.favorite {
+    color: green;
+}
